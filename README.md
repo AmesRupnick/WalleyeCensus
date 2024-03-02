@@ -1,0 +1,1 @@
+This project was created out of my passion for fishing and my grandfather's old stories of catching many more, bigger fish when he was younger. With it, I decided to see whether my grandfather was just exaggerating, or if he really was onto something. By analyzing fish censuses from the Ohio Department of Natural Resources, it turns out it was a little bit of both
